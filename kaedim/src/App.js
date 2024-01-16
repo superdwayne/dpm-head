@@ -15,7 +15,6 @@ import * as THREE from "three"
             Object.assign(nodes.lefttopline.material, { roughness: 1, metalness: 2, emissive: new THREE.Color('#FFD700')})
             Object.assign(nodes.lighterright.material, { roughness: 0, metalness: 1, emissive: new THREE.Color('#C0F0EE')})
             Object.assign(nodes.lefteyeline.material, { roughness: 0, metalness: 1, emissive: new THREE.Color('#FFD700')})
-
             Object.assign(nodes.nosejoinline.material, { roughness: 0.2, metalness: 1, emissive: new THREE.Color('#FFD700')})
             Object.assign(nodes.leftsideundereye.material, { roughness: 0.2, metalness: 1, emissive: new THREE.Color('#FFD700')})
             Object.assign(nodes.rightside.material, { roughness: 0.2, metalness: 1, emissive: new THREE.Color('#8AACAB')})
